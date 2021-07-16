@@ -1,0 +1,121 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "Orange"
+
+basic_info:
+  # Profile information
+  first_name: Victoria
+  last_name: Laplana
+  motto: Full Stack Developer & Artist
+  avatar: profile.png
+  summary: |
+    Summarise your career: I started studying fine arts and mueseum studies and ended up getting involved in the tech industry. I studied 3D animation and videogames,
+    and now I want to expand and become a better professional by learning how to code. I am passionate to learn new things and I am looking forward to become a great programmer.
+    Second paragraph if required.
+
+  # Sidebar links
+  email: vlaplana1090@gmail.com
+  phone: 645 210 608
+  linkedin: https://es.linkedin.com/in/victorialaplana
+  github: Azumydori
+
+  languages:
+    - idiom: English
+      level: Professional
+
+    - idiom: Spanish
+      level: Native
+
+    - idiom: Russian
+      level: Beginner
+
+  interests:
+    - item: Gaming
+
+    - item: Listening and talking about music
+
+    - item: Cooking
+
+education:
+  - degree: Full Stack Develpor
+    university: 4 Geeks Academy - Madrid
+    time: 2020 - 2020
+    details: |
+      Front end coding JavaScript
+      back end coding Php, python, ruby
+
+  - degree: 3D animation, Videogames and development of interactive enviorments
+    university: IED Istituto Europeo di Design - Madrid
+    time: 2018 - 2020
+    details: |
+      3D and 2D animation, 3D modeling
+      Video editing, videogame development and design.
+
+  - degree: Fine arts and Museum studies
+    university: Universidad Catolica Cecilio Acosta - Maracaibo
+    time: 2013 - 2018
+    details: |
+      Art history and Curation.
+
+  - degree: Diplomature in Western Art history
+    university: Universidad Metropolitana - Caracas
+    time: 2015 - 2017
+    details: |
+      Art history course from the ancient period until contemporary art.
+        
+experiences:
+
+  - role: Freelance English Teacher
+    time: 2020 - Present
+    company: Freelance - Madrid
+    details: |
+      Online English teacher.
+
+  - role: Intern
+    time: 2020 - 2020
+    company: Daniel Canogar Studio - Madrid.
+    details: |
+      Development of 3D enviorments to show the works and future proyects to potential clients by the visual artist Daniel Canogar. 
+
+  - role: Intern
+    time: 2017 - 2018
+    company: Centro de Artes Integradas - Caracas
+    details: |
+      Art teacher for kids in public schools. 
+
+ 
+  - role: Veterinary Assistant
+    time: 2017 - 2018
+    company: Veterinaria Gatosfera - Caracas
+    details: |
+      Help the head Veterinarian with patients and clean and take care of the cats in the cat hotel and in hospitalization.
+
+        
+projects:
+  intro: >
+    I am still very new to programming, so I still don't have many projects available.
+    I will update them as I program and get better.
+  assignments:
+    - title: Collaborative Website
+      link: "#hook"
+      tagline: "A bitcoin exchange website made with other classmates."
+
+
+skills:
+  toolset:
+    - name: Bootstrap
+      level: 70%
+
+    - name: Javascript
+      level: 68%
+
+    - name: HTML5 & CSS
+      level: 95%
+
+    - name: Photoshop & Illustrator
+      level: 75%
+
+    - name: 3DS Max
+      level: 68%
